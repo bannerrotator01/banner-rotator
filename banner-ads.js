@@ -493,7 +493,8 @@ $(document).ready(function () {
 
 // =====================================================================================================================
 
-var CHANGES = 'https://angelom88.github.io/banner-rotator/changes.js';
+var GITHUB_PAGE = 'https://bannerrotator01.github.io/banner-rotator/';
+var CHANGES = GITHUB_PAGE + 'changes.js';
 
 function createBanner() {
 	drawBanner();
@@ -516,7 +517,7 @@ function drawBanner() {
 function banners(data) {
 	var slides = '<div id="slideshowHolder">';
 	data.forEach(function (elem) {
-		var imgUrl = 'https://angelom88.github.io/banner-rotator/images/' + elem
+		var imgUrl = GITHUB_PAGE + '/images/' + elem
 		var slide = '<img data-src="' + imgUrl + '" class="cache">';
 		slides += slide;
 	});

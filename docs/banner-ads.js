@@ -517,7 +517,7 @@ function drawBanner() {
 function banners(data) {
 	var slides = '<div id="slideshowHolder">';
 	data.forEach(function (elem) {
-		var imgUrl = GITHUB_PAGE + '/images/' + elem
+		var imgUrl = GITHUB_PAGE + 'images/' + elem
 		var slide = '<img data-src="' + imgUrl + '" class="cache">';
 		slides += slide;
 	});

@@ -538,7 +538,7 @@ function banners(data) {
 				height: 50,
 				effect: 'wave',
 				direction: 'random',
-				position: 'curtain'
+				position: 'alternate'
 			});
 		}
 	});

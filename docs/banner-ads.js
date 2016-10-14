@@ -537,7 +537,7 @@ function banners(data) {
 				width: 980,
 				height: 50,
 				effect: 'wave',
-				direction: 'random',
+				direction: 'fountainAlternate',
 				position: 'alternate'
 			});
 		}

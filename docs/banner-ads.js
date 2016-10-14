@@ -536,7 +536,7 @@ function banners(data) {
 			$('#slideshowHolder').jqFancyTransitions({
 				width: 980,
 				height: 50,
-				effect: 'curtain',
+				effect: 'wave',
 				direction: 'random',
 				position: 'curtain'
 			});

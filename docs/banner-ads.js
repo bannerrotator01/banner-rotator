@@ -1,4 +1,4 @@
-// Banner rotator with caching via localStorage and dropbox
+// Banner rotator with caching via localStorage and github static files
 // Cache selected images via localStorage
 // =====================================================================================================================
 (function ($) {

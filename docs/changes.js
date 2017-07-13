@@ -4,5 +4,5 @@ var c = "bnr-BO-3D-Slots-Sweet-Treats.jpg"
 var d = "bnr-BO-3D-Slots-Fortune-Dice.jpg"
 var e = "bnr-BO-Live-Casino-Super-Hi-Lo.jpg"
 banners([
-a,b,c,d,e
+e,d,c,b,a
 ])

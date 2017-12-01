@@ -4,7 +4,8 @@ var c = 'bnr-BO-Live-Casino-Super-Hi-Lo.jpg'
 var d = 'lucky-royale-bo.jpg'
 var e = 'bnr-BO-3D-Slots-Monsters-Cash.jpg'
 var f = 'BO-Lion-Dance.jpg'
+var g = 'bnr-BO-Live-Casino-Lucky-Baccarat.jpg'
 
 banners([
-f,e,d,c,b,a
+g,f,e,d,c,b,a
 ])

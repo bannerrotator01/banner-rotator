@@ -508,7 +508,7 @@ function drawBanner() {
 		dataType: "jsonp",
 		contentType: 'application/json; charset=utf-8',
 		error: function (XMLHttpRequest, textStatus, errorThrown) {
-			console.log("*************");
+			// do nothing
 		}
 	});
 }

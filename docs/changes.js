@@ -6,8 +6,9 @@ var e = 'bnr-BO-3D-Slots-Genies-Luck.jpg'
 var f = 'bnr-BO-3D-Slots-World-Soccer-Slot-2.jpg'
 var g = 'bnr-BO-3D-Slots-Kung-Fu-Furry.jpg'
 var h = 'bnr-BO-3D-Slots-Gem-Forest.jpg'
+var i = 'bnr-BO-Games-Rock-Paper-Scissors.jpg'
 
 
 banners([
-h,g,f,e,d,c,b,a
+i,h,g,f,e,d,c,b,a
 ])

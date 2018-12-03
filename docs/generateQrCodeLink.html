@@ -1,0 +1,29 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>generate qr code link</title>
+</head>
+
+<body>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script>
+        function generateQrLink(op, username, key) {
+            var EXTERNAL_SVC_URL = 'https://chart.googleapis.com/chart?chs=200x200&chld=M%%7C0&cht=qr&chl=';
+            var QR_PREFIX_URI = 'otpauth://totp/';
+            var otpAuthUri = '%OP:%USR?secret=%KEY&issuer=%OP'.replace('%OP', op).replace('%USR', username).replace('%KEY', key);
+
+            return EXTERNAL_SVC_URL + QR_PREFIX_URI + otpAuthUri;
+        }
+
+        $(document).ready(function() {
+            var q = new URLSearchParams(window.location.search);
+            windows.location.href = generateQrLink(q.get('op'), q.get('username'), q.get('key'));
+        });
+    </script>
+
+    </script>
+
+</body>
+
+</html>

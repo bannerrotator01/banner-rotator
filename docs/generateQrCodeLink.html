@@ -18,7 +18,7 @@
 
         $(document).ready(function() {
             var q = new URLSearchParams(window.location.search);
-            windows.location.href = generateQrLink(q.get('op'), q.get('username'), q.get('key'));
+            window.location.href = generateQrLink(q.get('op'), q.get('username'), q.get('key'));
         });
     </script>
 

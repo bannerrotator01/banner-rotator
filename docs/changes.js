@@ -9,8 +9,9 @@ var h = 'bnr-BO-3D-Slots-Panda-Warrior.jpg'
 var i = 'bnr-BO-3D-Slots-Fountain-of-Fortune.jpg'
 var j = 'Banner-BO-BullFight.jpg'
 var k = 'bnr-BO-3D-Slots-Fa-Fa-Zhu.jpg'
+var l = 'bnr-BO-3D-Slots-Lucky-Giant.jpg'
 
 
 banners([
-    k, j, i, h, g, f, e, d, c, b, a
+    l,k, j, i, h, g, f, e, d, c, b, a
 ])

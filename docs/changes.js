@@ -10,7 +10,7 @@ var i = 'bnr-BO-3D-Slots-Captain-Rabbit.jpg'
 var j = 'bnr-BO-3D-Slots-Lunar-Legends.jpg'
 var k = 'bnr-BO-3D-Slots-Nation-Double-Play.jpg'
 var l = 'bnr-BO-Live-Casino-Super-Roulette.jpg'
-var m = 'bnr-BO-3D-Slots-Dino-Age.jpg'
+var m = 'bnr-BO-3D-Slots-Fortune-Dragon.jpg'
 
 
 banners([

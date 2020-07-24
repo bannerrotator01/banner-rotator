@@ -8,10 +8,10 @@ var g = 'bnr-BO-3D-Slots-Fortune-Hong-Bao.jpg'
 var h = 'bnr-BO-3D-Slots-Panda-Warrior.jpg'
 var i = 'bnr-BO-3D-Slots-Captain-Rabbit.jpg'
 var j = 'bnr-BO-3D-Slots-Lunar-Legends.jpg'
-var k = 'bnr-BO-3D-Slots-Nation-Double-Play.jpg'
-var l = 'bnr-BO-Live-Casino-Super-Roulette.jpg'
-var m = 'bnr-BO-3D-Slots-Fortune-Dragon.jpg'
-var n = 'bnr-BO-3D-Slots-Songkran-Summer-Splash.jpg'
+var k = 'bnr-BO-Live-Casino-Super-Roulette.jpg'
+var l = 'bnr-BO-3D-Slots-Fortune-Dragon.jpg'
+var m = 'bnr-BO-3D-Slots-Songkran-Summer-Splash.jpg'
+var n = 'bnr-BO-3D-Slots-God-of-Flames.jpg'
 
 
 banners([

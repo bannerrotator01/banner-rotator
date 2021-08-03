@@ -12,8 +12,9 @@ var k = 'bnr-BO-3D-Slots-God-of-Flames.jpg'
 var l = 'bnr-BO-3D-Slots-Mine-of-Riches.jpg'
 var m = 'bnr-BO-Games-Thai-Hi-Lo-Deluxe.jpg'
 var n = 'bnr-BO-3D-Slots-Elf-Surprise-Jackpot.png'
+var o = 'bnr-BO-3D-Slots-Alpha-and-the-Red-Hood.jpg'
 
 
 banners([
-    l,m,g,n,k, j, i, h, f, e, d, c, b, a
+    o,l,m,g,n,k, j, i, h, f, e, d, c, b, a
 ])

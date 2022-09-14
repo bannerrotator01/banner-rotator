@@ -15,7 +15,8 @@ var g = 'bnr-BO-3D-Slots-Sweet-Baker.jpg'
 var n = 'bnr-BO-3D-Slots-Skater-King.jpg'
 var p = 'bnr-BO-Fishing-Ocean-Explorer.jpg'
 var q = 'bnr-BO-Cricket-Golden-Wicket.jpg'
+var r = 'bnr-BO-Games-Football-Lucky-Penalty-Kick.jpg'
 
 banners([
-    q, p, j, m, n, g, o, l, k, i, h, f, e, d, c, b, a
+    r,q, p, j, m, n, g, o, l, k, i, h, f, e, d, c, b, a
 ])

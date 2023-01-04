@@ -9,7 +9,7 @@ var h = 'bnr-BO-Live-Casino-Super-Roulette.jpg'
 var i = 'bnr-BO-3D-Slots-Fortune-Dragon.jpg'
 var j = 'bnr-BO-Games-Three-Faces-Baccarat.jpg'
 var k = 'bnr-BO-3D-Slots-God-of-Flames.jpg'
-var l = 'bnr-BO-3D-Slots-Mine-of-Riches.jpg'
+var l = 'bnr-BO-3D-Slots-Rock-and-Rubbles.jpg'
 var m = 'bnr-BO-3D-Slots-Tigers-Roar.jpg'
 var n = 'bnr-BO-3D-Slots-Skater-King.jpg'
 var o = 'bnr-BO-3D-Slots-Alpha-and-the-Red-Hood.jpg'
@@ -18,5 +18,5 @@ var q = 'bnr-BO-Cricket-Golden-Wicket.jpg'
 var r = 'bnr-BO-Games-Football-Lucky-Penalty-Kick.jpg'
 
 banners([
-    g, r, q, p, j, m, n, o, l, k, i, h, f, e, d, c, b, a
+    l, g, r, q, p, j, m, n, o, k, i, h, f, e, d, c, b, a
 ])

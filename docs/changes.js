@@ -14,7 +14,7 @@ var m = 'bnr-BO-3D-Slots-Rainforest-Riches.jpg'
 var n = 'bnr-BO-3D-Slots-Age-of-Ronin-Mega-Reels.jpg'
 var o = 'bnr-BO-3D-Slots-Lucky-Meo-Meo.jpg'
 var p = 'bnr-BO-Fishing-Ocean-Explorer.jpg'
-var q = 'bnr-BO-Cricket-Golden-Wicket.jpg'
+var q = 'bnr-BO-3D-Slots-Gemoire-Unchained-Supreme-Ways.jpg'
 var r = 'bnr-BO-Games-Football-Lucky-Penalty-Kick.jpg'
 var s = 'bnr-BO-Games-Teen-Patti.jpg'
 

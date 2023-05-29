@@ -10,7 +10,7 @@ var i = 'bnr-BO-3D-Slots-Fortune-Dragon.jpg'
 var j = 'bnr-BO-Games-Coin-Toss-Deluxe.jpg'
 var k = 'bnr-BO-3D-Slots-God-of-Flames.jpg'
 var l = 'bnr-BO-3D-Slots-Pandoras-Legacy-Supreme-Reels.jpg'
-var m = 'bnr-BO-3D-Slots-Rainforest-Riches.jpg'
+var m = 'bnr-BO-3D-Slots-Magic-Tower-Cluster-Win.jpg'
 var n = 'bnr-BO-3D-Slots-Age-of-Ronin-Mega-Reels.jpg'
 var o = 'bnr-BO-3D-Slots-Dragon-Wildfire-Cluster-Win.jpg'
 var p = 'bnr-BO-Fishing-Ocean-Explorer.jpg'
@@ -20,5 +20,5 @@ var s = 'bnr-BO-Games-Hi-Lo-Card.jpg'
 var t = 'bnr-BO-Vampire-Treats.jpg'
 
 banners([
-    e, t, s, o, l, r, n, m, j, g, q, p, k, i, h, f, d, c, b, a
+    m, e, t, s, o, l, r, n, j, g, q, p, k, i, h, f, d, c, b, a
 ])

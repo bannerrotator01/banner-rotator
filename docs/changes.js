@@ -16,9 +16,9 @@ var o = 'bnr-BO-3D-Slots-Matching-Mouse.jpg'
 var p = 'bnr-BO-Fishing-Ocean-Explorer.jpg'
 var q = 'bnr-BO-3D-Slots-Druids-Enchanted.jpg'
 var r = 'bnr-BO-Games-Tambola-Tropika.jpg'
-var s = 'bnr-BO-Games-Hi-Lo-Card.jpg'
+var s = 'bnr-BO-Games-Baccarat-Dice.jpg'
 var t = 'bnr-BO-3D-Slots-Gem-Links-Cluster-Win.jpg'
 
 banners([
-    n, j, g, q, o, l, r, t, m, e, s, p, k, i, h, f, d, c, b, a
+    s, n, j, g, q, o, l, r, t, m, e, p, k, i, h, f, d, c, b, a
 ])

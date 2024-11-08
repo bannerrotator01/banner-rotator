@@ -2,7 +2,7 @@ var a = 'squeeze.jpg'
 var b = 'bnr-BO-Live-Casino-Virtual-Dealer-Baccarat.jpg'
 var c = 'bnr-BO-Live-Casino-Super-Hi-Lo.jpg'
 var d = 'bnr-BO-Live-Casino-Lucky-Baccarat.jpg'
-var e = 'bnr-BO-Games-Faro-The-West-Card.jpg'
+var e = 'bnr-BO-Games-Sic-Bo.jpg'
 var f = 'bnr-BO-Live-Casino-Grand.jpg'
 var g = 'bnr-BO-3D-Slots-Golden-Mahjong-Arena.jpg'
 var h = 'bnr-BO-Live-Casino-Super-Roulette.jpg'
@@ -20,5 +20,5 @@ var s = 'bnr-BO-Games-Baccarat-Dice.jpg'
 var t = 'bnr-BO-3D-Slots-Gem-Links-Cluster-Win.jpg'
 
 banners([
-    o, l, s, n, j, g, q, r, t, m, e, p, k, i, h, f, d, c, b, a
+    e, o, l, s, n, j, g, q, r, t, m, p, k, i, h, f, d, c, b, a
 ])

@@ -14,11 +14,11 @@ var m = 'bnr-BO-3D-Slots-Magic-Tower-Cluster-Win.jpg'
 var n = 'bnr-BO-Cosmic-Catcher.jpg'
 var o = 'bnr-BO-3D-Slots-Champions-Quest.jpg'
 var p = 'bnr-BO-Fishing-Ocean-Explorer.jpg'
-var q = 'bnr-BO-3D-Slots-Druids-Enchanted.jpg'
+var q = 'bnr-BO-Paint-Your-Riches.jpg'
 var r = 'bnr-BO-Games-Tambola-Tropika.jpg'
 var s = 'bnr-BO-Games-Baccarat-Dice.jpg'
 var t = 'bnr-BO-3D-Slots-Gem-Links-Cluster-Win.jpg'
 
 banners([
-    e, o, l, s, n, j, g, q, r, t, m, p, k, i, h, f, d, c, b, a
+    q, e, o, l, s, n, j, g, r, t, m, p, k, i, h, f, d, c, b, a
 ])

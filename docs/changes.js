@@ -12,7 +12,7 @@ var k = 'bnr-BO-3D-Slots-God-of-Flames.jpg'
 var l = 'bnr-BO-3D-Slots-Myth-Erlang-Shen.jpg'
 var m = 'bnr-BO-3D-Slots-Magic-Tower-Cluster-Win.jpg'
 var n = 'bnr-BO-Myth-Black-Goku.jpg'
-var o = 'bnr-BO-3D-Slots-Champions-Quest.jpg'
+var o = 'bnr-BO-3D-Slots-Mahavira-Hanuman.jpg'
 var p = 'bnr-BO-Fishing-Ocean-Explorer.jpg'
 var q = 'bnr-BO-Paint-Your-Riches.jpg'
 var r = 'bnr-BO-Games-Tambola-Tropika.jpg'
@@ -21,5 +21,5 @@ var t = 'bnr-BO-3D-Slots-Legendary-King-Prabu-Siliwangi.jpg'
 var u = 'bnr-BO-P2P-Poker-Mahjong.jpg'
 
 banners([
-    t, u, l, n, q, e, o, s, j, g, r, m, p, k, i, h, f, d, c, b, a
+    o, t, u, l, n, q, e, s, j, g, r, m, p, k, i, h, f, d, c, b, a
 ])

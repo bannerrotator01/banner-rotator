@@ -19,7 +19,8 @@ var r = 'bnr-BO-Games-Baccarat-Squeeze.jpg'
 var s = 'bnr-BO-Games-Baccarat-Dice.jpg'
 var t = 'bnr-BO-3D-Slots-Myth-Marshal-Bajie.jpg'
 var u = 'bnr-BO-P2P-Poker-Mahjong.jpg'
+var v = 'bnr-BO-3D-Slots-Pet-Park.jpg'
 
 banners([
-    r, o, t, q, u, l, n, e, s, j, g, m, p, k, i, h, f, d, c, b, a
+    v, r, o, t, q, u, l, n, e, s, j, g, m, p, k, i, h, f, d, c, b, a
 ])

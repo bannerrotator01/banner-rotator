@@ -16,11 +16,11 @@ var o = 'bnr-BO-3D-Slots-Squid-Deck.jpg'
 var p = 'bnr-BO-Fishing-Ocean-Explorer.jpg'
 var q = 'bnr-BO-3D-Slots-Squad-Games.jpg'
 var r = 'bnr-BO-Games-Baccarat-Squeeze.jpg'
-var s = 'bnr-BO-Games-Baccarat-Dice.jpg'
+var s = 'bnr-BO-Kick-n-Win.jpg'
 var t = 'bnr-BO-3D-Slots-Myth-Marshal-Bajie.jpg'
 var u = 'bnr-BO-P2P-Poker-Mahjong.jpg'
 var v = 'bnr-BO-3D-Slots-Pet-Park.jpg'
 
 banners([
-    j, v, r, o, t, q, u, l, n, e, s, g, m, p, k, i, h, f, d, c, b, a
+    s, j, v, r, o, t, q, u, l, n, e, g, m, p, k, i, h, f, d, c, b, a
 ])

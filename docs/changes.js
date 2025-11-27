@@ -20,7 +20,10 @@ var s = 'bnr-BO-Kick-n-Win.jpg'
 var t = 'bnr-BO-3D-Slots-Myth-Marshal-Bajie.jpg'
 var u = 'bnr-BO-P2P-Poker-Mahjong.jpg'
 var v = 'bnr-BO-3D-Slots-Pet-Park.jpg'
+var w = 'bnr-BO-Games-Broker.jpg'
+var x = 'bnr-BO-Slots-Carnival-Shooter.jpg'
+var y = 'bnr-BO-Slots-Pirates-Bounty.jpg'
 
 banners([
-    l, n, q, s, j, v, r, o, t, u, e, g, m, p, k, i, h, f, d, c, b, a
+    y, x, w, l, n, q, s, j, v, r, o, t, u, e, g, m, p, k, i, h, f, d, c, b, a
 ])

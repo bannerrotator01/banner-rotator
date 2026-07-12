@@ -23,7 +23,8 @@ var v = 'bnr-BO-Slots-Toltec-Totem-Treasures.jpg'
 var w = 'bnr-BO-Games-Broker.jpg'
 var x = 'bnr-BO-Slots-Carnival-Shooter.jpg'
 var y = 'bnr-BO-Slots-Pirates-Bounty.jpg'
+var z = 'bnr-BO-Slots-Maui-Voyage.jpg'
 
 banners([
-    r, t, y, x, w, l, n, q, s, j, v, r, o, u, e, g, m, p, k, i, h, f, d, c, b, a
+    z, r, t, y, x, w, l, n, q, s, j, v, r, o, u, e, g, m, p, k, i, h, f, d, c, b, a
 ])

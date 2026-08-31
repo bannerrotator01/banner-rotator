@@ -21,7 +21,7 @@ var t = 'bnr-BO-Slots-Fortune-Three-Lions.jpg'
 var u = 'bnr-BO-P2P-Poker-Mahjong.jpg'
 var v = 'bnr-BO-Slots-Toltec-Totem-Treasures.jpg'
 var w = 'bnr-BO-Games-Broker.jpg'
-var x = 'bnr-BO-Slots-Carnival-Shooter.jpg'
+var x = 'bnr-BO-Great-Wall-Riches.jpg'
 var y = 'bnr-BO-Slots-Pirates-Bounty.jpg'
 var z = 'bnr-BO-Slots-Maui-Voyage.jpg'
 
